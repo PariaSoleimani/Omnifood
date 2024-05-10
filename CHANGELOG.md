@@ -7,5 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.1.1] - 2024-05-10
+### Fixed
+- Footer: Footer logo path bug 
+
+
+## [1.1.0] - 2024-05-10
+### Added
+- Website: GitHub page
+
+
 ## [1.0.0] - 2024-05-10
+### Added
 - Website: New landing page using HTML and plain CSS
